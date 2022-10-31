@@ -1,9 +1,9 @@
 # Movie-Data-Correlation
 ## Libraries
-.Pandas
-.Seaborn
-.Matplotlib
-.Numpy
+1.Pandas
+2.Seaborn
+3.Matplotlib
+4.Numpy
 ## Original Dataset from kaggle
 https://www.kaggle.com/datasets/danielgrijalvas/movies
 ## Description 
